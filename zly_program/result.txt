@@ -1,0 +1,1 @@
+Należało zmienić char *napis.. na char napis[], gdyz sposob alokacji pierwszy uniemożliwiał zmiane wartości. Read only.
