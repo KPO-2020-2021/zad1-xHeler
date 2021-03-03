@@ -1,1 +1,2 @@
 Podczas kompilowania za pomocą G++ dostajemy błąd związany z używaniem nieodpowiedniej ilości argumentów, program nadaje priorytet dla funkcji napisanej w lokalnym pliku.
+Dla języka "c" wyświetla się poprawnie, dla języka "c++" nalezy dodac typy danych do deklaracji funkcji.
