@@ -1,0 +1,2 @@
+Oba programy na poziomie konsolidacji i kompilacji zachowały się jednakowo nie zwracając błedów.
+Podczas uruchamiania i testowania również nie było żadnego problemu.

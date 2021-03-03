@@ -1,0 +1,1 @@
+Na poziomie konsolidacji i kompilacji program w G++ nie kompiluje się prawidłowo. W języku C++ należy zamienić słowo kluczowe extern na static przy zmiennych zasięgu poza plikiem używanym.
