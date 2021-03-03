@@ -1,2 +1,2 @@
-Oba programy na poziomie konsolidacji i kompilacji zachowały się jednakowo nie zwracając błedów.
+Kompilacja w GCC należy zalinkowac bibliotekę matematyczną, G++ nie ma takiej potrzeby.
 Podczas uruchamiania i testowania również nie było żadnego problemu.
