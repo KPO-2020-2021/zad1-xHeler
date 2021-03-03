@@ -1,3 +1,4 @@
 Podczas konsolidacji i kompilacji brak problemów.
 Podczas uruchomienia są jednak różnice w danych wyjściowych.
 Program kompilowany przez GCC poprawnie wyświetla napis w ASCII, natomiast program z G++ wyświetla błedy w tym samym napisie.
+Char w "c++" jest równy 1B, a w "c" to 4B.
